@@ -1,0 +1,16 @@
+/* theme.css */
+:root {
+  /* Primary colors */
+  --primary-light: #9fc8f1;
+  --primary-main: #00c861;
+  --primary-mid: #026a34;
+  --primary-dark: hwb(155 25% 6%);
+  --primary-contrast-text: #fbfbfb;
+
+  /* Secondary colors */
+  --secondary-light: #fdc3a8;
+  --secondary-main: #f89a27;
+  --secondary-dark: #c4d01c;
+  --secondary-contrast-text: #fbfbfb;
+  --some: #127c71;
+}
