@@ -163,7 +163,12 @@ const HomeHero: FC = () => {
           </Grid>
           <Grid item xs={12} md={4} sx={{ position: 'relative', mt: '7.5rem' }}>
             <Box sx={{ lineHeight: 0 }}>
-              <Image src="/images/home-hero.jpg" width={775} height={787} alt="Hero img" />
+              <Image
+                src="/images/illustrations/3d-female-character-working-desk-with-laptop.png"
+                width={775}
+                height={787}
+                alt="Hero img"
+              />
             </Box>
           </Grid>
         </Grid>

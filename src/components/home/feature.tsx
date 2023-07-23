@@ -13,7 +13,13 @@ const HomeFeature: FC = () => {
         <Grid container spacing={3}>
           <Grid item xs={12} md={5} sx={{ display: 'flex', alignItems: 'center' }}>
             <Box sx={{ position: 'relative' }}>
-              <Image src="/images/home-feature.png" width={650} height={678} quality={100} alt="Feature img" />
+              <Image
+                src="/images/illustrations/3d-female-character-working-laptop-while-sitting-chair.png"
+                width={650}
+                height={678}
+                quality={100}
+                alt="Feature img"
+              />
             </Box>
           </Grid>
           <Grid item xs={12} md={7}>
