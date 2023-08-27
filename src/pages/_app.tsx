@@ -30,6 +30,11 @@ const App: FC<AppPropsWithLayout> = (props: AppPropsWithLayout) => {
     <CacheProvider value={emotionCache}>
       <Head>
         <meta name="viewport" content="initial-scale=1, width=device-width" />
+        <meta
+          name="description"
+          content="Unlock your true potential with Propel Ascenders - Offering personalized online courses, mentorship, and coaching. Join us today and elevate your skills!"
+        />
+
         <title>Propel Ascenders Academy</title>
       </Head>
       <MUIProvider>
