@@ -10,7 +10,7 @@ import IconArrowBack from '@mui/icons-material/ArrowBack'
 import IconArrowForward from '@mui/icons-material/ArrowForward'
 
 import { data } from '../data/popular-course.data'
-import CourseCardItem from '@/components/course/course-card-item'
+import CourseCardItem from '@/components/course-card-item'
 
 interface SliderArrowArrow {
   onClick?: () => void

@@ -42,11 +42,11 @@ export const data: Array<Testimonial> = [
     id: 4,
     title: 'Stepping Stone to Success',
     content:
-      'The Placement Preparatory Mentorship program was instrumental in my successful placements last year. The guidance and mock interviews helped me build confidence, and I secured a fantastic Internship opportunity.',
+      'The Placement Preparatory Mentorship program was instrumental in my successful internship hunt last year. The guidance and mock interviews helped me build confidence, and I secured a fantastic Internship opportunity.',
     user: {
       id: 4,
-      name: '',
-      professional: '',
+      name: 'Final Year Student',
+      professional: 'Final Year Student',
       photo: '2.jpg',
     },
   },

@@ -10,7 +10,7 @@ import { styled } from '@mui/material/styles'
 import IconArrowBack from '@mui/icons-material/ArrowBack'
 import IconArrowForward from '@mui/icons-material/ArrowForward'
 
-import TestimonialItem from '@/components/testimonial/testimonial-item'
+import TestimonialItem from '@/components/testimonial-item'
 import { data } from '../data/testimonial.data'
 
 interface SliderArrowArrow {

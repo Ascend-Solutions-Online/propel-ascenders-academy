@@ -1,8 +1,8 @@
 import React, { FC, ReactNode } from 'react'
 import Box from '@mui/material/Box'
 import { Footer } from '@/components/footer'
-import Header from '@/components/header/header'
-import { Copyright } from '../copyright/Copyright'
+import Header from '@/components/header'
+import { Copyright } from './Copyright'
 
 interface Props {
   children: ReactNode
